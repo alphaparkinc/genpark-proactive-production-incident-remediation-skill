@@ -1,0 +1,8 @@
+{
+  "name": "genpark-proactive-production-incident-remediation-skill",
+  "version": "1.0.0",
+  "description": "Observes telemetry errors, maps root causes, and generates safe executable runbooks for production incident mitigation",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
