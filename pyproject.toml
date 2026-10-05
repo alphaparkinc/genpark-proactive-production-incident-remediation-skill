@@ -1,0 +1,1 @@
+[project]\nname = "genpark-proactive-production-incident-remediation-skill"\nversion = "1.0.0"\ndescription = "Observes telemetry errors, maps root causes, and generates safe executable runbooks for production incident mitigation"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
