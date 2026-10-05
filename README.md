@@ -1,0 +1,1 @@
+# genpark-proactive-production-incident-remediation-skill\n\nObserves telemetry errors, maps root causes, and generates safe executable runbooks for production incident mitigation.\n\n100% Python Standard Library implementation with zero external dependencies.
